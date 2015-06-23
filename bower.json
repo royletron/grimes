@@ -1,0 +1,21 @@
+{
+  "name": "Grimes",
+  "version": "0.0.0",
+  "authors": [
+    "Darren <darren.royle@oup.com>"
+  ],
+  "description": "Comic management",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "#",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

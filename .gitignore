@@ -1,0 +1,6 @@
+node_modules
+.bowerrc
+public/components
+build
+public/js
+public/css

@@ -1,0 +1,35 @@
+{
+  "name": "grimes",
+  "version": "1.0.0",
+  "description": "Comic management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "diskdb": "^0.1.14",
+    "express": "^4.13.0",
+    "jade": "^1.11.0",
+    "koa": "^0.21.0",
+    "koa-browserify": "^0.1.0",
+    "koa-logger": "^1.2.2",
+    "koa-router": "^5.1.2",
+    "koa-sass": "https://github.com/kasperlewau/koa-sass",
+    "koa-static": "^1.4.9",
+    "koa-views": "^3.0.0",
+    "react": "^0.13.3",
+    "react-bootstrap": "^0.23.5",
+    "react-router": "^0.13.3",
+    "reactify": "^1.1.1"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-react": "^3.0.1",
+    "gulp-sass": "^2.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
